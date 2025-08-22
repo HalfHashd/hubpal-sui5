@@ -1,6 +1,7 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  // No special config needed for now
+export default function Navbar() {
+  return (
+    <nav>
+      <h1>HubPal</h1>
+    </nav>
+  )
 }
-
-module.exports = nextConfig
