@@ -1,3 +1,4 @@
+// Create project page placeholder
 export default function CreateProjectPage() {
   return (
     <div>
